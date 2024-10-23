@@ -3,6 +3,9 @@
 ## Description
 The **Gradebook Management System** is a Java-based application designed to manage and track students' academic performance. It allows users to store and manipulate student data, including grades for various assignments, quizzes, midterms, and final exams. The program provides the flexibility to handle multiple students, ensuring accurate grade tracking and efficient management of student information.
 
+## Project Status
+In Progress -- needs updated on grade calculation as this is just the foundational code of GUI and logic.
+
 ## Features
 - Store student information: name, letter grade, percentage, and scores for homeworks, quizzes, midterms, and finals.
 - Validation of grade inputs to ensure values are within acceptable ranges (-1 to 100).
